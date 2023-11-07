@@ -1,0 +1,2 @@
+/*INSERT INTO PET VALUES
+('Cat', 'Red', 15, 1000);*/
